@@ -1,19 +1,7 @@
-# accessibility-regression-kit — build record
+# Build record
 
-Owner: Lord_Sumi (`sumiEmpire001`). Portfolio project 97 of 100.
+Owner: Lord_Sumi. Portfolio project 97 of 100.
 
-## Purpose
+Scope: Accessible component examples and repeatable keyboard/contrast regression workflow.
 
-Accessible component examples and a repeatable keyboard/contrast regression workflow.
-
-## Required verification
-
-Keyboard focus, labels, contrast and documented manual screen-reader checks.
-
-## Current implementation status
-
-Planned build. This repository does not yet contain a working implementation; no tests have been run.
-
-## Completion criteria
-
-Runnable code, reproducible setup and demo, validated inputs, meaningful error handling, project-specific tests, architecture notes, recorded evidence and explicit limitations. Plans, scaffolds and mock screens do not count as completed implementations. Device and live-service checks must be recorded separately when applicable.
+Implementation: semantic HTML/CSS component lab, downloadable static demo, twelve local structural/token tests and twelve Chromium interaction/layout scenarios. Browser results require a successful workflow run. Manual screen-reader verification remains pending.

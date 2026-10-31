@@ -1,0 +1,1 @@
+{"name":"@lord-sumi/accessibility-regression-kit","private":true,"version":"0.1.0","type":"module","scripts":{"test":"python3 -m unittest discover -s tests -v","test:browser":"node tests/browser.mjs","build":"python3 build.py"},"devDependencies":{"playwright":"1.62.1"},"license":"MIT"}
